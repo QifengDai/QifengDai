@@ -2,6 +2,7 @@
 
 Hi, I'm Qifeng Dai, a student at HEU.
 
+- 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Computer Vision and Computer Graphics.
 - 😄 My Blog: [Qifeng Dai's Blog](https://qifengdai.github.io/)
 - 📫 How to reach me: Mail me [here](mailto:daiqifeng0511@gmail.com)
