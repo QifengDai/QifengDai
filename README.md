@@ -44,6 +44,9 @@ Hi, I'm Qifeng Dai, a student at HEU.
 <a href="https://www.microsoftstore.com.cn/software/office/visio-standard-2021" target="_blank"> <img src="https://raw.githubusercontent.com/uiwjs/file-icons/master/icon/microsoft-visio.svg" alt="Visio" width="40" height="40"/> </a>
 
 
+### Statistics
+[![QifengDai's GitHub stats](https://github-readme-stats.vercel.app/api?username=QifengDai)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
