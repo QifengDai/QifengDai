@@ -45,7 +45,7 @@ Hi, I'm Qifeng Dai, a student at HEU.
 
 
 ### Statistics
-[![QifengDai's GitHub stats](https://github-readme-stats.vercel.app/api?username=QifengDai)](https://github.com/anuraghazra/github-readme-stats)
+![QifengDai's GitHub stats](https://github-readme-stats.vercel.app/api?username=QifengDai&show_icons=true)
 
 
 
