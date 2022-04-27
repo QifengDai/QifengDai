@@ -19,6 +19,8 @@ Hi, I'm Qifeng Dai, a student at HEU.
 <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/intellij-idea-1.svg" alt="IntelliJ IDEA" width="40" height="40"/> </a>
+<a href="https://www.eclipse.org/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/eclipse-icon.svg" alt="Eclipse" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pycharm.svg" alt=" PyCharm" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -36,11 +38,10 @@ Hi, I'm Qifeng Dai, a student at HEU.
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://www.latex-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
 <a href="http://www.markdown.cn/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
-
-
-
-
-<!-- https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg -->
+<a href="https://notepad-plus-plus.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" alt="Notepad++" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/adobe-photoshop.svg" alt="Photoshop" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/adobe-premiere_pro.svg" alt="Premiere Pro" width="40" height="40"/> </a>
+<a href="https://www.microsoftstore.com.cn/software/office/visio-standard-2021" target="_blank"> <img src="https://raw.githubusercontent.com/uiwjs/file-icons/master/icon/microsoft-visio.svg" alt="Visio" width="40" height="40"/> </a>
 
 
 
