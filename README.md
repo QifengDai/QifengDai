@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Qifeng Dai, a student at HEU.
+Hi, I'm Qifeng Dai, a student at XMU.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Computer Vision and Computer Graphics.
