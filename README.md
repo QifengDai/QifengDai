@@ -18,7 +18,7 @@ Hi, I'm Qifeng Dai, a student at XMU.
 <a href="https://www.anaconda.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/intellij-idea-1.svg" alt="IntelliJ IDEA" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/i/intellij-idea-1.svg" alt="IntelliJ IDEA" width="40" height="40"/> </a>
 <a href="https://www.eclipse.org/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/eclipse-icon.svg" alt="Eclipse" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pycharm.svg" alt=" PyCharm" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
